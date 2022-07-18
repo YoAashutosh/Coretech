@@ -1,0 +1,20 @@
+A11,Honor,Huawei,350,Low,Mobile,20
+S21, Galaxy S21,Samsung,700,Medium,Mobile,15
+Q11, iPad 12th gen,Apple,1100,High,Tablet,10
+We12,Fifa,Xiaomi,600,Medium,Tablet,20
+EV11,Galaxy A13,Samsung,800,Medium,Mobile,20
+ZX32,Galaxy Tab A8,Samsung,1000,High,Tablet,20
+SS12,iPhone 13 Pro Max,Apple,1400,High,Mobile,10
+AR1,W41 Pro,LG,600,Low,Mobile,30
+RT12,12X,Xiamoi,700,Medium,Mobile,20
+Oi12,P50 Pocket,Huawei,1000,High,Mobile,10
+Et02,nova 9,Huawei,800,Medium,Mobile,15
+L01,A95,Oppo,600,Low,Mobile,13
+K31,iQOO 9 Pro,Vivo,800,Medium,Mobile,15
+R45,Galaxy Tab A7 Lite,Samsung,800,Medium,Tablet,20
+K33,Galaxy Tab S7 FE,Samsung,900,Medium,Tablet,10
+I11,iPad mini,Apple,1200,High,Tablet,5
+LT01,iPad 10.2,Apple,1350,High,Tablet,10
+KP12,iPad Pro 11,Apple,1400,High,Tablet,15
+M11,MatePad Pro 12.6,Huawei,1000,High,Tablet,10
+IJ11,nova 8i,Huawei,800,Medium,Mobile,20
